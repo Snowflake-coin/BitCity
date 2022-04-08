@@ -1,0 +1,25 @@
+{
+  "name": "bitcity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snowflake-coin/BitCity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snowflake-coin/BitCity/issues"
+  },
+  "homepage": "https://github.com/Snowflake-coin/BitCity#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.17.3",
+    "node-json-db": "^0.7.5",
+    "socket.io": "^4.4.1"
+  }
+}
